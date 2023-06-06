@@ -1,0 +1,2 @@
+web: ruby -e "ENV['PORT'] = '3000'" && rails server -p 3000
+js: yarn build --watch
