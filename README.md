@@ -3,8 +3,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [📹 video presentation](#video-presentation)
-  - [:camera: screenshots](#screenshots)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -20,7 +18,7 @@
 
 - [📝 License](#license)
 
-# :abc: Hello Rails React <a name="about-project"></a>
+# Hello Rails React <a name="about-project"></a>
 
 > This project demonstrates the process of setting up and utilizing Rails and React together by employing a webpack configuration.
 
